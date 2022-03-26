@@ -1,0 +1,4 @@
+nextDNS_email = "enter nextdns email"
+nextDNS_password = "enter nextdns passwrd"
+nextDNS_id = "enter nextdns config id"
+target_domains = ["domain1", "domain2", "domain2", "and so onn..."]

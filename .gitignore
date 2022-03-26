@@ -1,0 +1,6 @@
+.vscode/*
+*.exe
+*.csv
+nextdns.txt
+ip.txt
+ipv6.txt
